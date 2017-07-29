@@ -1,7 +1,7 @@
 # TEK programmer
 A programmer for "Truly Ergonomic" keyboards. Basically [m-ou-se/teck-programmer](https://github.com/m-ou-se/teck-programmer) rewritten in Rust.
 
-This tool allows you to update the layout of your Truly Ergonomic keyboard with files generated from the [Layout generator]( https://www.trulyergonomic.com/store/layout-designer--configurator--reprogrammable--truly-ergonomic-mechanical-keyboard/) or with a [Default layout](https://www.trulyergonomic.com/store/default-layouts--truly-ergonomic-mechanical-keyboard).
+This tool allows you to update the layout of your Truly Ergonomic keyboard with files generated from the [layout generator]( https://www.trulyergonomic.com/store/layout-designer--configurator--reprogrammable--truly-ergonomic-mechanical-keyboard/) or with a [default layout](https://www.trulyergonomic.com/store/default-layouts--truly-ergonomic-mechanical-keyboard).
 
 WARNING: Usage is at your own risk. This program has only been testet with the model 229 so far. If you bricked your keyboard, you can try to perform a [manual reset](https://www.trulyergonomic.com/store/knowledge-base--truly-ergonomic-mechanical-keyboard#Reset).
 
