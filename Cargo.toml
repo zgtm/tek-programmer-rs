@@ -1,7 +1,7 @@
 [package]
-name = "usbtest"
+name = "tek-programmer"
 version = "0.1.0"
-authors = ["Robert Czechowski <robert+git@czecho.de>"]
+authors = ["Robert Czechowski <robert+git@zgtm.de>"]
 
 [dependencies]
 libusb = "0.3"
