@@ -28,3 +28,10 @@ If you want to compile and run in one step, you can just invoke
 You have any problems using this software? Open an issue or drop me a message at robert+git@zgtm.de.
 
 If you bricked your keyboard, you can try to perform a [manual reset](https://web.archive.org/web/20160324205503/https://trulyergonomic.com/store/knowledge-base--truly-ergonomic-mechanical-keyboard#Reset).
+
+### Manual reset (summary)
+ * Open keyboard (two screws are hidden behind the label)
+ * Set DIP switch #5 to ON (Firmware protected!)
+ * Plug in the keyboard to your computer
+ * Connect pins 1 and 36 on the microcontroller (leftmost of top and bottom row)
+ * Upload firmware
